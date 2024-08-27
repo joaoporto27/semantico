@@ -12,8 +12,13 @@ body {
 }
 
 .site-header {
-    background-color: #333;
+    background-color: #776969;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
+}
+
+.site-title {
+    margin-bottom: 10px;
+    font-size: 2rem;
 }
